@@ -1,0 +1,17 @@
+[
+    {
+        "userName":"Abigail Thomas",
+        "userID":"1",
+        "userBudget":"$1000"
+    },
+    {
+        "userName":"Aditya Rathod",
+        "userID":"2",
+        "userBudget":"$1500"
+    },
+    {
+        "userName": "Huy Nguyen",
+        "userID":"3",
+        "userBudget":"$2000"
+    }
+]
